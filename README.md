@@ -49,17 +49,19 @@
 
 </div>
 
-<div style="border: 1px solid #e5e5e5; border-radius: 12px; padding: 18px;">
+<div align="center">
+<div style="border: 1px solid #e5e5e5; border-radius: 12px; padding: 20px; max-width: 700px;">
 
-- Built full web applications using **React**, **Next.js**, and **Laravel**  
-- Developed advanced **inventory systems**, including:  
-  ✅ Stock management  
-  ✅ Order processing  
-  ✅ Invoicing  
-  ✅ Product movement & reporting  
-- Integrated dashboards, authentication systems, and secure APIs  
-- Developed scalable backend architectures using **Laravel + SQL**  
+- Built full web apps using **React**, **Next.js**, and **Laravel**  
+- Developed complete **inventory systems**, including:  
+  • Stock management  
+  • Orders  
+  • Invoicing  
+  • Product movement & reporting  
+- Created secure APIs & dashboards  
+- Designed scalable backend logic using **Laravel + SQL**  
 
+</div>
 </div>
 
 ---
@@ -70,29 +72,31 @@
 
 </div>
 
-<div style="display: flex; flex-direction: column; gap: 16px;">
+<div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 900px;">
 
 <!-- CARD 1 -->
-<div style="border: 1px solid #e5e5e5; border-radius: 12px; padding: 16px;">
-  <h3>⭐ Star Family Industry PLC Website</h3>
+<div style="flex: 1 1 260px; border: 1px solid #e5e5e5; border-radius: 12px; padding: 18px; max-width: 280px;">
+  <h3 align="center">⭐ Star Family Industry PLC</h3>
   <ul>
     <li><strong>Frontend:</strong> React</li>
     <li><strong>Backend:</strong> Laravel</li>
     <li><strong>Dashboard:</strong> Next.js</li>
   </ul>
-  <p>A modern business website with a powerful admin dashboard for product and content management.</p>
+  <p>A full business website with admin dashboard for product & content management.</p>
 </div>
 
 <!-- CARD 2 -->
-<div style="border: 1px solid #e5e5e5; border-radius: 12px; padding: 16px;">
-  <h3>⭐ Dematsa Trading Website</h3>
+<div style="flex: 1 1 260px; border: 1px solid #e5e5e5; border-radius: 12px; padding: 18px; max-width: 280px;">
+  <h3 align="center">⭐ Dematsa Trading Website</h3>
   <ul>
     <li><strong>UI:</strong> Next.js</li>
     <li><strong>Backend:</strong> Laravel</li>
   </ul>
-  <p>A dynamic online platform for managing business operations with an efficient dashboard and clean UI.</p>
+  <p>A dynamic business management platform with a clean UI and efficient dashboard.</p>
 </div>
 
+</div>
 </div>
 
 ---
@@ -103,12 +107,14 @@
 
 </div>
 
-<div style="border: 1px solid #e5e5e5; border-radius: 12px; padding: 18px;">
+<div align="center">
+<div style="border: 1px solid #e5e5e5; border-radius: 12px; padding: 20px; max-width: 700px;">
 
-- Advanced **Next.js architecture**  
-- **System design** for scalable backend services  
-- **Flutter** for cross-platform mobile development  
+- Advanced **Next.js** design patterns  
+- **System architecture** & scalable backend design  
+- **Flutter** for cross-platform mobile apps  
 
+</div>
 </div>
 
 ---
@@ -118,7 +124,7 @@
 ## 📫 Let’s Connect
 
 <a href="https://ousman-portfolio.vercel.app/" target="_blank">
-  🔗 <strong>Portfolio</strong>
+  🔗 <strong>My Portfolio</strong>
 </a>
 
 </div>
