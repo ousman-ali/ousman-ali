@@ -50,17 +50,25 @@
 </div>
 
 <div align="center">
-<div style="border: 1px solid #e5e5e5; border-radius: 12px; padding: 20px; max-width: 700px;">
-
-- Built full web apps using **React**, **Next.js**, and **Laravel**  
-- Developed complete **inventory systems**, including:  
-  • Stock management  
-  • Orders  
-  • Invoicing  
-  • Product movement & reporting  
-- Created secure APIs & dashboards  
-- Designed scalable backend logic using **Laravel + SQL**  
-
+<div style="
+  border: 1px solid #e5e5e5; 
+  border-radius: 14px; 
+  padding: 22px; 
+  max-width: 750px;
+  text-align: left;
+">
+<ul>
+  <li>Built full web applications using <strong>React</strong>, <strong>Next.js</strong>, and <strong>Laravel</strong></li>
+  <li>Developed complete <strong>Inventory Systems</strong> including:</li>
+  <ul>
+    <li>Stock management</li>
+    <li>Order and invoice processing</li>
+    <li>Product movement tracking</li>
+    <li>Reports and analytics</li>
+  </ul>
+  <li>Built secure dashboards, authentication, and clean API architectures</li>
+  <li>Designed scalable backend logic using <strong>Laravel + SQL</strong></li>
+</ul>
 </div>
 </div>
 
@@ -68,32 +76,49 @@
 
 <div align="center">
 
-## 🛠️ Projects
-
+## 🛠️ Projects  
 </div>
 
 <div align="center">
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 900px;">
+<div style="
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center; 
+  gap: 20px;
+  max-width: 900px;
+">
 
-<!-- CARD 1 -->
-<div style="flex: 1 1 260px; border: 1px solid #e5e5e5; border-radius: 12px; padding: 18px; max-width: 280px;">
+<!-- PROJECT CARD 1 -->
+<div style="
+  flex: 1 1 300px; 
+  max-width: 350px; 
+  border: 1px solid #e5e5e5; 
+  border-radius: 14px; 
+  padding: 20px;
+">
   <h3 align="center">⭐ Star Family Industry PLC</h3>
   <ul>
     <li><strong>Frontend:</strong> React</li>
     <li><strong>Backend:</strong> Laravel</li>
     <li><strong>Dashboard:</strong> Next.js</li>
   </ul>
-  <p>A full business website with admin dashboard for product & content management.</p>
+  <p>A business website with a complete admin dashboard for product and content management.</p>
 </div>
 
-<!-- CARD 2 -->
-<div style="flex: 1 1 260px; border: 1px solid #e5e5e5; border-radius: 12px; padding: 18px; max-width: 280px;">
+<!-- PROJECT CARD 2 -->
+<div style="
+  flex: 1 1 300px;
+  max-width: 350px; 
+  border: 1px solid #e5e5e5; 
+  border-radius: 14px; 
+  padding: 20px;
+">
   <h3 align="center">⭐ Dematsa Trading Website</h3>
   <ul>
     <li><strong>UI:</strong> Next.js</li>
     <li><strong>Backend:</strong> Laravel</li>
   </ul>
-  <p>A dynamic business management platform with a clean UI and efficient dashboard.</p>
+  <p>A dynamic business platform with a clean UI, dashboard, and strong backend structure.</p>
 </div>
 
 </div>
@@ -103,17 +128,22 @@
 
 <div align="center">
 
-## 🌱 What I'm Learning, Growing & Improving
-
+## 🌱 Learning, Growing & Improving
 </div>
 
 <div align="center">
-<div style="border: 1px solid #e5e5e5; border-radius: 12px; padding: 20px; max-width: 700px;">
-
-- Advanced **Next.js** design patterns  
-- **System architecture** & scalable backend design  
-- **Flutter** for cross-platform mobile apps  
-
+<div style="
+  border: 1px solid #e5e5e5; 
+  border-radius: 14px; 
+  padding: 22px; 
+  max-width: 750px;
+  text-align: left;
+">
+<ul>
+  <li>Advanced <strong>Next.js patterns</strong> and full-stack app structures</li>
+  <li><strong>System architecture</strong> and scalable backend design</li>
+  <li>Building cross-platform apps using <strong>Flutter</strong></li>
+</ul>
 </div>
 </div>
 
@@ -121,8 +151,7 @@
 
 <div align="center">
 
-## 📫 Let’s Connect
-
+## 📫 Let’s Connect  
 <a href="https://ousman-portfolio.vercel.app/" target="_blank">
   🔗 <strong>My Portfolio</strong>
 </a>
