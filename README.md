@@ -1,12 +1,18 @@
 <div align="center">
 
 # 👋 Hi, I'm <strong>Ousman Ali Seid</strong>  
-### <em>Full-Stack Developer | MERN & Laravel Engineer | Passionate About Building & Solving</em>
+### <em>Full-Stack Developer | MERN & Laravel Expert | Always Learning & Exploring</em>
 
 <br/>
 
 <a href="https://ousman-portfolio.vercel.app/" target="_blank">
-  🌐 <strong>Visit My Portfolio</strong>
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -25,17 +31,17 @@
 
 <table>
   <tr>
-    <td align="center" width="180">
+    <td align="center" width="200">
       <strong>Frontend</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,typescript,javascript,html,css,tailwind" width="100%"/>
     </td>
-
-    <td align="center" width="180">
+    <td align="center" width="200">
       <strong>Backend</strong><br/><br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+      <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mongodb,mysql,php" width="100%"/>
+    </td>
+    <td align="center" width="200">
+      <strong>Tools</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" width="100%"/>
     </td>
   </tr>
 </table>
@@ -46,31 +52,33 @@
 
 <div align="center">
 
-## 🧩 Experience
+## 💼 Experience
 
 </div>
 
 <div align="center">
 <div style="
-  border: 1px solid #e5e5e5;
-  border-radius: 14px;
-  padding: 22px;
-  max-width: 750px;
+  border: 1px solid #e1e8ed; 
+  border-radius: 16px; 
+  padding: 25px; 
+  max-width: 800px;
   text-align: left;
-  background: #fafafa;
+  background: linear-gradient(135deg, #f8f9ff 0%, #f0f4ff 100%);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 ">
-<ul>
-  <li>Developed full web apps using <strong>React</strong>, <strong>Next.js</strong>, and <strong>Laravel</strong></li>
-  <li>Built complete <strong>Inventory Systems</strong> including:</li>
+<h3 align="center" style="margin-top: 0;">🚀 Professional Journey</h3>
+<ul style="line-height: 1.6;">
+  <li>Built full web applications using <strong>React</strong>, <strong>Next.js</strong>, and <strong>Laravel</strong></li>
+  <li>Developed complete <strong>Inventory Systems</strong> including:</li>
   <ul>
-    <li>Stock & warehouse management</li>
-    <li>Order & invoice automation</li>
+    <li>Stock management</li>
+    <li>Order and invoice processing</li>
     <li>Product movement tracking</li>
-    <li>Reports, analytics & role-based dashboards</li>
+    <li>Reports and analytics</li>
   </ul>
-  <li>Designed secure authentication (JWT, Sanctum, custom API logic)</li>
-  <li>Developed scalable backend architectures using <strong>Laravel + SQL</strong></li>
-  <li>Optimized UX/UI across multiple production-ready projects</li>
+  <li>Built secure dashboards, authentication, and clean API architectures</li>
+  <li>Designed scalable backend logic using <strong>Laravel + SQL</strong></li>
+  <li>Implemented responsive designs and optimized user experiences</li>
 </ul>
 </div>
 </div>
@@ -79,69 +87,85 @@
 
 <div align="center">
 
-## 🛠️ Projects
-
+## 🛠️ Featured Projects  
 </div>
 
 <div align="center">
 <div style="
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center; 
+  gap: 25px;
   max-width: 1000px;
 ">
 
-<!-- PROJECT 1 -->
+<!-- PROJECT CARD 1 -->
 <div style="
-  flex: 1 1 300px;
-  max-width: 350px;
-  border: 1px solid #e5e5e5;
-  border-radius: 14px;
-  padding: 20px;
-  background: #fafafa;
+  flex: 1 1 320px; 
+  max-width: 350px; 
+  border: 1px solid #e1e8ed; 
+  border-radius: 16px; 
+  padding: 25px;
+  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 ">
-  <h3 align="center">⭐ Star Family Industry PLC</h3>
-  <ul>
+  <h3 align="center" style="margin-top: 0; color: #2d3748;">⭐ Star Family Industry PLC</h3>
+  <div align="center" style="margin: 15px 0;">
+    <img src="https://skillicons.dev/icons?i=react,laravel,nextjs" width="70%"/>
+  </div>
+  <ul style="line-height: 1.6;">
     <li><strong>Frontend:</strong> React</li>
     <li><strong>Backend:</strong> Laravel</li>
     <li><strong>Dashboard:</strong> Next.js</li>
   </ul>
-  <p>A complete business platform with a CMS dashboard for products, content, and workflow management.</p>
+  <p style="color: #4a5568;">A business website with a complete admin dashboard for product and content management.</p>
 </div>
 
-<!-- PROJECT 2 -->
+<!-- PROJECT CARD 2 -->
 <div style="
-  flex: 1 1 300px;
-  max-width: 350px;
-  border: 1px solid #e5e5e5;
-  border-radius: 14px;
-  padding: 20px;
-  background: #fafafa;
+  flex: 1 1 320px;
+  max-width: 350px; 
+  border: 1px solid #e1e8ed; 
+  border-radius: 16px; 
+  padding: 25px;
+  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 ">
-  <h3 align="center">⭐ Dematsa Trading Website</h3>
-  <ul>
+  <h3 align="center" style="margin-top: 0; color: #2d3748;">⭐ Dematsa Trading Website</h3>
+  <div align="center" style="margin: 15px 0;">
+    <img src="https://skillicons.dev/icons?i=nextjs,laravel,mysql" width="70%"/>
+  </div>
+  <ul style="line-height: 1.6;">
     <li><strong>UI:</strong> Next.js</li>
     <li><strong>Backend:</strong> Laravel</li>
+    <li><strong>Database:</strong> MySQL</li>
   </ul>
-  <p>A clean, responsive business platform with a strong backend structure and admin dashboard.</p>
+  <p style="color: #4a5568;">A dynamic business platform with a clean UI, dashboard, and strong backend structure.</p>
 </div>
 
-<!-- PROJECT 3 -->
+<!-- PROJECT CARD 3 -->
 <div style="
-  flex: 1 1 300px;
-  max-width: 350px;
-  border: 1px solid #e5e5e5;
-  border-radius: 14px;
-  padding: 20px;
-  background: #fafafa;
+  flex: 1 1 320px;
+  max-width: 350px; 
+  border: 1px solid #e1e8ed; 
+  border-radius: 16px; 
+  padding: 25px;
+  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 ">
-  <h3 align="center">⭐ Advanced Inventory Management System</h3>
-  <ul>
-    <li><strong>Tech:</strong> Laravel + MySQL</li>
-    <li><strong>Dashboard:</strong> React</li>
+  <h3 align="center" style="margin-top: 0; color: #2d3748;">🚀 Inventory Management System</h3>
+  <div align="center" style="margin: 15px 0;">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" width="70%"/>
+  </div>
+  <ul style="line-height: 1.6;">
+    <li><strong>Frontend:</strong> React</li>
+    <li><strong>Backend:</strong> Node.js + Express</li>
+    <li><strong>Database:</strong> MongoDB</li>
   </ul>
-  <p>Tracks stock, purchases, orders, batches, reports, and expiry automation — built for real companies.</p>
+  <p style="color: #4a5568;">Complete inventory solution with real-time tracking and analytics dashboard.</p>
 </div>
 
 </div>
@@ -151,24 +175,26 @@
 
 <div align="center">
 
-## 🌱 Learning, Growing & Improving
-
+## 🌱 Learning & Growth
 </div>
 
 <div align="center">
 <div style="
-  border: 1px solid #e5e5e5;
-  border-radius: 14px;
-  padding: 22px;
-  max-width: 750px;
+  border: 1px solid #e1e8ed; 
+  border-radius: 16px; 
+  padding: 25px; 
+  max-width: 800px;
   text-align: left;
-  background: #fafafa;
+  background: linear-gradient(135deg, #f0fff4 0%, #e6fffa 100%);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 ">
-<ul>
-  <li>Advanced <strong>Next.js patterns</strong>, server actions & scalable full-stack structures</li>
-  <li>Deepening knowledge in <strong>System Architecture</strong> and backend optimization</li>
-  <li>Expanding into <strong>Flutter</strong> for cross-platform apps</li>
-  <li>Improving design skills & building pixel-perfect UI components</li>
+<h3 align="center" style="margin-top: 0;">📚 Currently Exploring</h3>
+<ul style="line-height: 1.6;">
+  <li>Advanced <strong>Next.js patterns</strong> and full-stack app structures</li>
+  <li><strong>System architecture</strong> and scalable backend design</li>
+  <li>Building cross-platform apps using <strong>Flutter</strong></li>
+  <li>Advanced database optimization and <strong>microservices</strong></li>
+  <li>Cloud platforms: <strong>AWS, Docker, CI/CD pipelines</strong></li>
 </ul>
 </div>
 </div>
@@ -177,12 +203,35 @@
 
 <div align="center">
 
-## 📫 Let’s Connect
+## 📊 GitHub Stats
 
-<a href="https://ousman-portfolio.vercel.app/" target="_blank">
-  🔗 <strong>Visit My Portfolio</strong>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" style="max-width: 100%;" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" alt="Top Languages" style="max-width: 100%;" />
 
-<br/><br/>
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <a href="https://ousman-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<p>💼 <strong>Open to new opportunities and collaborations!</strong></p>
 
 </div>
